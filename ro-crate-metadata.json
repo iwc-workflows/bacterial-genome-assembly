@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2024-06-17T16:32:31.401725",
+            "datePublished": "2024-06-19T07:13:32.849980",
             "hasPart": [
                 {
                     "@id": "bacterial_genome_assembly.ga"
@@ -67,7 +67,7 @@
                     "@id": "https://www.abromics.fr/"
                 },
                 {
-                    "@id": "#45e2b16a-b223-4f56-bf90-f127b13b98c7"
+                    "@id": "#e1b3af08-bf68-43a0-b8ad-e0b0cbdceec6"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-8304-138X"
@@ -101,7 +101,7 @@
             "name": "abromics-consortium"
         },
         {
-            "@id": "#45e2b16a-b223-4f56-bf90-f127b13b98c7",
+            "@id": "#e1b3af08-bf68-43a0-b8ad-e0b0cbdceec6",
             "@type": "Person",
             "name": "Abromics"
         },
