@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2024-10-02T07:33:09.008268",
+            "datePublished": "2024-10-25T08:03:47.419529",
             "hasPart": [
                 {
                     "@id": "bacterial_genome_assembly.ga"
@@ -67,7 +67,7 @@
                     "@id": "https://www.abromics.fr/"
                 },
                 {
-                    "@id": "#69ef8ad2-af6e-4494-934a-2c103e49a55a"
+                    "@id": "#787dd63d-5055-47af-8c5a-1b2ae627699b"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-8304-138X"
@@ -81,7 +81,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/bacterial-genome-assembly",
-            "version": "1.1.3"
+            "version": "1.1.4"
         },
         {
             "@id": "#galaxy",
@@ -101,7 +101,7 @@
             "name": "abromics-consortium"
         },
         {
-            "@id": "#69ef8ad2-af6e-4494-934a-2c103e49a55a",
+            "@id": "#787dd63d-5055-47af-8c5a-1b2ae627699b",
             "@type": "Person",
             "name": "ABRomics"
         },
