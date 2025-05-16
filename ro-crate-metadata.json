@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2024-11-25T16:53:55.297085",
+            "datePublished": "2025-05-16T09:42:22.466155",
             "hasPart": [
                 {
                     "@id": "bacterial_genome_assembly.ga"
@@ -67,7 +67,7 @@
                     "@id": "https://www.abromics.fr/"
                 },
                 {
-                    "@id": "#0dff71f5-00fa-4f46-af2e-4cbaab1def7d"
+                    "@id": "#b0dd7e4e-5bb7-4c86-b02a-9ac1e49c39d0"
                 },
                 {
                     "@id": "https://orcid.org/0000-0002-8304-138X"
@@ -81,7 +81,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/bacterial-genome-assembly",
-            "version": "1.1.5"
+            "version": "1.1.6"
         },
         {
             "@id": "#galaxy",
@@ -101,7 +101,7 @@
             "name": "abromics-consortium"
         },
         {
-            "@id": "#0dff71f5-00fa-4f46-af2e-4cbaab1def7d",
+            "@id": "#b0dd7e4e-5bb7-4c86-b02a-9ac1e49c39d0",
             "@type": "Person",
             "name": "ABRomics"
         },
@@ -162,7 +162,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.26"
+            "engineVersion": ">=0.75.30"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
